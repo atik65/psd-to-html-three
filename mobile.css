@@ -1,0 +1,18 @@
+/* =================
+TOP HEADER PART STYLE
+================ */
+
+.top-header input{
+    width: 100%;
+
+}
+.top-header{
+    padding: 5px 10px;
+}
+
+/* ==================
+   HEADER PART STYLE
+   ================== */
+.logo{
+    margin-left: 10px;
+}
